@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color: black;
+
+}
+
+div {
+    margin: 30vh auto;
+    background-color: #D6C1F3;
+    width: 40vw;
+    border-radius: 40px;
+    padding: 8vh 0;
+    text-align: center;
+    
+}
+
+#txt {
+font-size: 4rem;
+/* padding-bottom: 2vh; */
+}
+
+/* #subline {
+    font-size: 1.3rem;
+    color: #FFF13F;
+    } */
